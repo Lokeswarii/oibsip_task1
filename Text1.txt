@@ -3,4 +3,5 @@ I'm a sample text file
 
 hiii im in branch now
 
-now i'm merging in vs code
+now i'm merging in vs code 
+in branch
