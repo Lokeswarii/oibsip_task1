@@ -13,7 +13,7 @@ body{
 }
 
 .item{
-    color: black;
+    color: brown;
     font-size: 20px;
     background: gainsboro;
     text-align: center;
@@ -23,7 +23,6 @@ body{
     
     
 }
-
 .item:active {
     background-color: darksalmon;
     color: #fff;
@@ -47,7 +46,7 @@ body{
     
 }
 .item3{
-    color: red;
+    color: orange;
     font-weight: bold;
 }
 
